@@ -1,0 +1,11 @@
+begin
+copy i0 10
+copy i3 30
+copy i2 add i0 add 10 40
+copy i4 add add 8 10 i3
+copy i5 add i0 i3
+print add 7 10
+print add i0 add 9 20
+print add add 100 3 i3
+print add add i0 i3 add 15 15
+end

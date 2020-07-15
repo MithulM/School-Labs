@@ -1,0 +1,14 @@
+Baylor Scott & White Medical Center Plano	
+118	3
+Baylor Scott and White Medical Center Frisco	
+68	5
+Baylor Scott and White The Heart Hospital - Plano	
+114	46
+Medical City Plano	
+461	224
+Plano Urgent Care Center	
+5	1
+Texas Health Center for Diagnostics & Surgery Plano	
+18	11
+Texas Health Plano	
+369	354

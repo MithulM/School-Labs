@@ -1,0 +1,15 @@
+Bulbasaur 45 49 49 45
+Charmander 39 52 43 65
+Squirtle 44 48 65 43
+Caterpie 45 30 35 45
+Butterfree 60 45 50 70
+Pidgeotto 63 60 55 71
+Raticate 55 81 60 97
+Ekans 35 60 44 55
+Pikachu 35 55 40 90
+Vulpix 38 41 40 65
+Drowzee 60 48 45 42
+Haunter 45 50 45 95
+Sandshrew 50 75 85 40
+Riolu 40 70 40 60
+Tentacool 40 40 35 70

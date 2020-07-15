@@ -1,0 +1,54 @@
+Elvis Presley
+84
+TRUE    FALSE   FALSE
+Aretha Franklin
+50
+TRUE    FALSE   FALSE
+George Michael
+35
+TRUE    TRUE   TRUE
+John Fogerty
+12
+FALSE    TRUE    TRUE
+Freddie Mercury
+60
+TRUE    TRUE   FALSE
+Michael Jackson
+50
+TRUE    TRUE   FALSE
+Frank Sinatra
+37
+TRUE    TRUE   FALSE
+Whitney Houston
+10
+TRUE    TRUE   FALSE
+Adele
+12
+TRUE    TRUE    FALSE
+Celine Dion
+60
+FALSE    FALSE   FALSE
+Elton John
+18
+TRUE   TRUE   TRUE
+Luciano Pavarotti
+20
+TRUE    FALSE   FALSE
+Prince
+65
+TRUE    FALSE    FALSE
+Mariah Carey
+40
+TRUE    FALSE   TRUE
+Dolly Parton
+10
+FALSE    TRUE   TRUE
+Ella Fitzgerald
+28
+FALSE    FALSE    FALSE
+David Bowie
+92
+TRUE    TRUE   FALSE
+Lady Gaga
+34
+TRUE    TRUE    TRUE

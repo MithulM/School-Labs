@@ -1,0 +1,5 @@
+begin
+copy i0 9
+copy i3 19
+copy i2 add i0 i3
+end

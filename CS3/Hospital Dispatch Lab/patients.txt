@@ -1,0 +1,298 @@
+Elvis Presley
+TRUE    FALSE   Parkland Hospital
+Aretha Franklin
+TRUE    FALSE   Medical City Plano
+George Michael
+TRUE    FALSE   Plano Urgent Care Center
+John Fogerty
+TRUE    TRUE    Plano Urgent Care Center
+Freddie Mercury
+TRUE    FALSE   Plano Urgent Care Center
+Michael Jackson
+TRUE    FALSE   Plano Urgent Care Center
+Frank Sinatra
+TRUE    TRUE    Plano Urgent Care Center
+Whitney Houston
+FALSE   FALSE   Plano Urgent Care Center
+Adele
+TRUE    TRUE    Plano Urgent Care Center
+Celine Dion
+TRUE    FALSE   Texas Health Plano
+Elton John
+FALSE   FALSE   Medical City Plano
+Luciano Pavarotti
+TRUE    FALSE   Baylor Scott and White Medical Center Frisco
+Prince
+TRUE    TRUE    Plano Urgent Care Center
+Mariah Carey
+TRUE    FALSE   Texas Health Plano
+Dolly Parton
+TRUE    FALSE   Baylor Scott & White Medical Center Plano
+Ella Fitzgerald
+TRUE    TRUE    Medical City Plano
+David Bowie
+TRUE    FALSE   Baylor Scott and White Medical Center Frisco
+Lady Gaga
+TRUE    TRUE    Medical City Plano
+Bruno Mars
+TRUE    FALSE   Baylor Scott and White Medical Center Frisco
+Andrea Bocelli
+FALSE   FALSE   Medical City Plano
+Louis Armstrong
+TRUE    FALSE   Parkland Hospital
+Diana Ross
+TRUE    TRUE    Parkland Hospital
+Julie Andrews
+TRUE    FALSE   Plano Urgent Care Center
+Jon Bon Jovi
+TRUE    FALSE   Plano Urgent Care Center
+Stevie Wonder
+TRUE    FALSE   Parkland Hospital
+Nat King Cole
+FALSE   TRUE    Medical City Plano
+Donna Summer
+TRUE    TRUE    Texas Health Plano
+John Lennon
+TRUE    FALSE   Texas Health Plano
+Linda Ronstadt
+TRUE    FALSE   Medical City Plano
+Steve Perry
+TRUE    FALSE   Baylor Scott & White Medical Center Plano
+Marvin Gaye
+TRUE    FALSE   Medical City Plano
+Ricky Nelson
+TRUE    FALSE   Medical City Plano
+Amy Winehouse
+FALSE   TRUE    Baylor Scott and White Medical Center Frisco
+Billy Joel
+TRUE    FALSE   Medical City Plano
+Gladys Knight
+TRUE    FALSE   Texas Health Plano
+Megan Marie Hart
+TRUE    FALSE   Baylor Scott & White Medical Center Plano
+Ricky Nelson
+TRUE    FALSE   Medical City Plano
+Olivia Newton-John
+TRUE    FALSE   Medical City Plano
+Kelly Clarkson
+TRUE    TRUE    Medical City Plano
+Christina Aguilera
+FALSE   FALSE   Medical City Plano
+P!nk
+FALSE   FALSE   Medical City Plano
+Michael Buble
+FALSE   FALSE   Texas Health Plano
+Tina Turner
+TRUE    TRUE    Medical City Plano
+Lionel Richie
+TRUE    FALSE   Medical City Plano
+Alicia Keys
+TRUE    FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Beyonce Knowles
+TRUE    TRUE    Medical City Plano
+Judy Garland
+FALSE   FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Paul Simon
+TRUE    FALSE   Medical City Plano
+Dean Martin
+FALSE   FALSE   Medical City Plano
+Cat Stevens
+TRUE    FALSE   Medical City Plano
+Eric Clapton
+FALSE   FALSE   Medical City Plano
+John Denver
+TRUE    FALSE   Medical City Plano
+Steven Tyler
+TRUE    TRUE    Medical City Plano
+Patsy Cline
+FALSE   TRUE    Medical City Plano
+Neil Diamond
+TRUE    TRUE    Medical City Plano
+Johnny Cash
+TRUE    TRUE    Texas Health Plano
+LeAnn Rimes
+FALSE   TRUE    Baylor Scott & White Medical Center Plano
+Karen Carpenter
+TRUE    TRUE    Medical City Plano
+Patty Loveless
+TRUE    TRUE    Texas Health Center for Diagnostics & Surgery Plano
+Vince Gill
+TRUE    FALSE   Baylor Scott & White Medical Center Plano
+Sade Adu
+FALSE   FALSE   Medical City Plano
+Cyndi Lauper
+FALSE   TRUE    Texas Health Plano
+Ray Charles
+FALSE   FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Harry Belafonte
+TRUE    FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Stevie Nicks
+TRUE    FALSE   Medical City Plano
+Ed Sheeran
+TRUE    TRUE    Texas Health Plano
+Amy Grant
+FALSE   FALSE   Medical City Plano
+Bob Marley
+FALSE   FALSE   Baylor Scott & White Medical Center Plano
+Leontyne Price
+TRUE    TRUE    Texas Health Plano
+Paul McCartney
+FALSE   FALSE   Medical City Plano
+Robert Plant
+TRUE    FALSE   Baylor Scott & White Medical Center Plano
+Shakira
+FALSE   TRUE    Texas Health Center for Diagnostics & Surgery Plano
+Tom Petty
+TRUE    FALSE   Texas Health Plano
+Nancy Wilson
+TRUE    TRUE    Baylor Scott & White Medical Center Plano
+Kacey Musgraves
+FALSE   FALSE   Baylor Scott and White Medical Center Frisco
+Britney Spears
+FALSE   FALSE   Medical City Plano
+Kurt Cobain
+TRUE    TRUE    Medical City Plano
+Carrie Underwood
+TRUE    FALSE   Medical City Plano
+Lena Horne
+TRUE    TRUE    Medical City Plano
+Cher
+FALSE   FALSE   Medical City Plano
+Paolo Nutini
+FALSE   FALSE   Medical City Plano
+Marilyn Horne
+TRUE    FALSE   Medical City Plano
+Rosemary Clooney
+TRUE    FALSE   Medical City Plano
+Justin Timberlake
+TRUE    FALSE   Medical City Plano
+Axl Rose
+FALSE   FALSE   Baylor Scott & White Medical Center Plano
+John Mayer
+TRUE    TRUE    Texas Health Plano
+Tim McGraw
+TRUE    TRUE    Baylor Scott & White Medical Center Plano
+Leona Lewis
+TRUE    TRUE    Texas Health Plano
+Isaac Hayes
+FALSE   TRUE    Baylor Scott and White Medical Center Frisco
+Grace Bumbry
+TRUE    TRUE    Baylor Scott and White Medical Center Frisco
+Barbra Streisand
+TRUE    FALSE   Medical City Plano
+Bing Crosby
+TRUE    FALSE   Medical City Plano
+Crystal Gayle
+TRUE    FALSE   Medical City Plano
+Dave Grohl
+TRUE    FALSE   Medical City Plano
+Jackie Evancho
+FALSE   FALSE   Medical City Plano
+Brendon Urie
+TRUE    FALSE   Medical City Plano
+Conway Twitty
+TRUE    TRUE    Medical City Plano
+Sheena Easton
+TRUE    FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Don Everly
+FALSE   FALSE   Baylor Scott & White Medical Center Plano
+Aaron Neville
+TRUE    TRUE    Texas Health Center for Diagnostics & Surgery Plano
+Jeff Lynne
+FALSE   TRUE    Medical City Plano
+Jimmy Buffett
+FALSE   TRUE    Texas Health Center for Diagnostics & Surgery Plano
+Kimberly Perry
+FALSE   FALSE   Medical City Plano
+Shania Twain
+FALSE   FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Sting
+TRUE    FALSE   Medical City Plano
+Rosanne Cash
+TRUE    TRUE    Texas Health Center for Diagnostics & Surgery Plano
+Sammy Hagar
+FALSE   FALSE   Baylor Scott & White Medical Center Plano
+Sheryl Crow
+TRUE    FALSE   Medical City Plano
+Barry White
+TRUE    TRUE    Medical City Plano
+Ringo Starr
+TRUE    FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Robin Gibb
+TRUE    FALSE   Medical City Plano
+Gregg Allman
+FALSE   FALSE   Texas Health Plano
+Phil Everly
+TRUE    FALSE   Texas Health Plano
+Leon Russell
+TRUE    FALSE   Baylor Scott and White Medical Center Frisco
+Tori Kelly
+TRUE    TRUE    Medical City Plano
+Dido
+TRUE    TRUE    Baylor Scott and White Medical Center Frisco
+Stacy Ferguson
+TRUE    TRUE    Texas Health Plano
+Harry Nilsson
+FALSE   TRUE    Medical City Plano
+Engelbert Humperdinck
+FALSE   TRUE    Texas Health Plano
+KT Tunstall
+TRUE    TRUE    Baylor Scott and White Medical Center Frisco
+Christopher Cross
+TRUE    TRUE    Medical City Plano
+Kelly Rowland
+TRUE    TRUE    Baylor Scott and White Medical Center Frisco
+Brenda Lee
+FALSE   TRUE    Medical City Plano
+Ann Wilson
+FALSE   TRUE    Texas Health Plano
+Bryan Adams
+TRUE    FALSE   Texas Health Center for Diagnostics & Surgery Plano
+Peter Cetera
+FALSE   FALSE   Medical City Plano
+Smokey Robinson
+FALSE   FALSE   Medical City Plano
+Charlotte Church
+TRUE    FALSE   Medical City Plano
+Idina Menzel
+FALSE   FALSE   Medical City Plano
+Wynonna Judd
+FALSE   FALSE   Baylor Scott & White Medical Center Plano
+Billie Eilish
+TRUE    TRUE    Medical City Plano
+Willie Nelson
+TRUE    FALSE   Baylor Scott and White Medical Center Frisco
+Sly Stone
+TRUE    FALSE   Medical City Plano
+Bobby Vinton
+TRUE    FALSE   Baylor Scott and White Medical Center Frisco
+George Jones
+FALSE   FALSE   Medical City Plano
+Curtis Mayfield
+FALSE   FALSE   Medical City Plano
+Demi Lovato
+TRUE    TRUE    Medical City Plano
+Randy Travis
+FALSE   FALSE   Medical City Plano
+James Blunt
+TRUE    TRUE    Medical City Plano
+Enrico Caruso
+FALSE   FALSE   Medical City Plano
+B. J. Thomas
+TRUE    FALSE   Texas Health Center for Diagnostics & Surgery Plano
+John Legend
+FALSE   FALSE   Medical City Plano
+Ian Anderson
+TRUE    TRUE    Texas Health Plano
+Brian May
+FALSE   TRUE    Texas Health Center for Diagnostics & Surgery Plano
+Tom Jones
+TRUE    TRUE    Medical City Plano
+Fats Domino
+TRUE    FALSE   Baylor Scott & White Medical Center Plano
+Bob Dylan
+TRUE    FALSE   Medical City Plano
+Lou Gramm
+TRUE    TRUE    Texas Health Plano
+Ritchie Valens
+FALSE   TRUE    Texas Health Plano

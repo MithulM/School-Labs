@@ -1,0 +1,3 @@
+begin
+copy i0 add 10 -25
+end

@@ -1,0 +1,4 @@
+begin
+copy i0 9
+copy i3 i0
+end
